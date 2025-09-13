@@ -12,50 +12,28 @@
 class Solution {
 public:
 
-int findSumOfNumber(vector<vector<int>> &paths){
+int solve(TreeNode* root,int curr){
 
-    int sum=0;
-
-    for(vector<int> path:paths){
-        int num = 0;
-        for (int d : path) {
-            num = num * 10 + d;  
+     if(!root){
+            return 0;
         }
-        sum+=num;
-    }
 
-    return sum;
-}
-
-vector<vector<int>> findNodetoLeafPaths(TreeNode* root, vector<int> &temp){
-
-    vector<vector<int>> result;
-    if(root==NULL) return result;  
-
-    temp.push_back(root->val);      
+    curr=(curr*10)+root->val;
 
     if(root->left==NULL && root->right==NULL){
-        result.push_back(temp);
-    } else {
-        auto left  = findNodetoLeafPaths(root->left,temp);
-        auto right = findNodetoLeafPaths(root->right,temp);
-        result.insert(result.end(), left.begin(), left.end());   
-        result.insert(result.end(), right.begin(), right.end()); 
+        return curr;
     }
+    int l=solve(root->left,curr);
+    int r=solve(root->right,curr);
 
-    temp.pop_back(); 
-    return result;   
+    return l+r;
 }
+    int sumNumbers(TreeNode* root) {
 
-int sumNumbers(TreeNode* root) {
+        return solve(root,0);
+        
 
-    // brute
-    if(root==NULL ){
-        return 0;
+
+        
     }
-    vector<int> temp;
-    vector<vector<int>> paths= findNodetoLeafPaths(root,temp);
-    int totalSum=findSumOfNumber(paths);   
-    return totalSum;
-}
 };
