@@ -49,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/oceanja/Amazon/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/oceanja/Amazon/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+## Array
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/oceanja/Amazon/tree/master/0055-jump-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/oceanja/Amazon/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/oceanja/Amazon/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
