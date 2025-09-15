@@ -107,8 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/oceanja/Amazon/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/oceanja/Amazon/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/oceanja/Amazon/tree/master/0146-lru-cache) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/oceanja/Amazon/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
