@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/oceanja/Amazon/tree/master/0018-4sum) |
 | [0055-jump-game](https://github.com/oceanja/Amazon/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/oceanja/Amazon/tree/master/0134-gas-station) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/oceanja/Amazon/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -125,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/oceanja/Amazon/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/oceanja/Amazon/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/oceanja/Amazon/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
