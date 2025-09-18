@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/oceanja/Amazon/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/oceanja/Amazon/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/oceanja/Amazon/tree/master/0460-lfu-cache) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/oceanja/Amazon/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/oceanja/Amazon/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/oceanja/Amazon/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -111,15 +112,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/oceanja/Amazon/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/oceanja/Amazon/tree/master/0460-lfu-cache) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/oceanja/Amazon/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/oceanja/Amazon/tree/master/0155-min-stack) |
+| [0460-lfu-cache](https://github.com/oceanja/Amazon/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/oceanja/Amazon/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/oceanja/Amazon/tree/master/0460-lfu-cache) |
 ## Stack
 |  |
 | ------- |
