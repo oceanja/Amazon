@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/oceanja/Amazon/tree/master/0273-integer-to-english-words) |
+| [2050-count-good-numbers](https://github.com/oceanja/Amazon/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/oceanja/Amazon/tree/master/0024-swap-nodes-in-pairs) |
 | [0273-integer-to-english-words](https://github.com/oceanja/Amazon/tree/master/0273-integer-to-english-words) |
+| [2050-count-good-numbers](https://github.com/oceanja/Amazon/tree/master/2050-count-good-numbers) |
 ## Linked List
 |  |
 | ------- |
