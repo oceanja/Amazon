@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/oceanja/Amazon/tree/master/0273-integer-to-english-words) |
+| [1894-merge-strings-alternately](https://github.com/oceanja/Amazon/tree/master/1894-merge-strings-alternately) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/oceanja/Amazon/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Recursion
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/oceanja/Amazon/tree/master/0018-4sum) |
+| [1894-merge-strings-alternately](https://github.com/oceanja/Amazon/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
