@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/oceanja/Amazon/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/oceanja/Amazon/tree/master/0134-gas-station) |
+| [0670-maximum-swap](https://github.com/oceanja/Amazon/tree/master/0670-maximum-swap) |
 | [0778-reorganize-string](https://github.com/oceanja/Amazon/tree/master/0778-reorganize-string) |
 ## Counting
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/oceanja/Amazon/tree/master/0273-integer-to-english-words) |
+| [0670-maximum-swap](https://github.com/oceanja/Amazon/tree/master/0670-maximum-swap) |
 | [2050-count-good-numbers](https://github.com/oceanja/Amazon/tree/master/2050-count-good-numbers) |
 ## String
 |  |
