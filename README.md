@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/oceanja/Amazon/tree/master/0055-jump-game) |
 | [0097-interleaving-string](https://github.com/oceanja/Amazon/tree/master/0097-interleaving-string) |
 | [0967-minimum-falling-path-sum](https://github.com/oceanja/Amazon/tree/master/0967-minimum-falling-path-sum) |
+| [0972-knight-dialer](https://github.com/oceanja/Amazon/tree/master/0972-knight-dialer) |
 ## Greedy
 |  |
 | ------- |
