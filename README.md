@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/oceanja/Amazon/tree/master/0299-bulls-and-cows) |
 | [0778-reorganize-string](https://github.com/oceanja/Amazon/tree/master/0778-reorganize-string) |
 | [1894-merge-strings-alternately](https://github.com/oceanja/Amazon/tree/master/1894-merge-strings-alternately) |
+| [2373-apply-discount-to-prices](https://github.com/oceanja/Amazon/tree/master/2373-apply-discount-to-prices) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/oceanja/Amazon/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/oceanja/Amazon/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Recursion
