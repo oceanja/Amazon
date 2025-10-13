@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/oceanja/Amazon/tree/master/0146-lru-cache) |
 | [0299-bulls-and-cows](https://github.com/oceanja/Amazon/tree/master/0299-bulls-and-cows) |
 | [0460-lfu-cache](https://github.com/oceanja/Amazon/tree/master/0460-lfu-cache) |
+| [0523-continuous-subarray-sum](https://github.com/oceanja/Amazon/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/oceanja/Amazon/tree/master/0525-contiguous-array) |
 | [0652-find-duplicate-subtrees](https://github.com/oceanja/Amazon/tree/master/0652-find-duplicate-subtrees) |
 | [0740-delete-and-earn](https://github.com/oceanja/Amazon/tree/master/0740-delete-and-earn) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/oceanja/Amazon/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/oceanja/Amazon/tree/master/0198-house-robber) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/oceanja/Amazon/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0523-continuous-subarray-sum](https://github.com/oceanja/Amazon/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/oceanja/Amazon/tree/master/0525-contiguous-array) |
 | [0733-flood-fill](https://github.com/oceanja/Amazon/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/oceanja/Amazon/tree/master/0740-delete-and-earn) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/oceanja/Amazon/tree/master/0273-integer-to-english-words) |
+| [0523-continuous-subarray-sum](https://github.com/oceanja/Amazon/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/oceanja/Amazon/tree/master/0670-maximum-swap) |
 | [0826-soup-servings](https://github.com/oceanja/Amazon/tree/master/0826-soup-servings) |
 | [2050-count-good-numbers](https://github.com/oceanja/Amazon/tree/master/2050-count-good-numbers) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/oceanja/Amazon/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/oceanja/Amazon/tree/master/0525-contiguous-array) |
 ## Simulation
 |  |
