@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/oceanja/Amazon/tree/master/0525-contiguous-array) |
 | [0733-flood-fill](https://github.com/oceanja/Amazon/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/oceanja/Amazon/tree/master/0740-delete-and-earn) |
+| [0747-min-cost-climbing-stairs](https://github.com/oceanja/Amazon/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/oceanja/Amazon/tree/master/0967-minimum-falling-path-sum) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/oceanja/Amazon/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1830-count-good-meals](https://github.com/oceanja/Amazon/tree/master/1830-count-good-meals) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/oceanja/Amazon/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/oceanja/Amazon/tree/master/0337-house-robber-iii) |
 | [0740-delete-and-earn](https://github.com/oceanja/Amazon/tree/master/0740-delete-and-earn) |
+| [0747-min-cost-climbing-stairs](https://github.com/oceanja/Amazon/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/oceanja/Amazon/tree/master/0967-minimum-falling-path-sum) |
 | [0972-knight-dialer](https://github.com/oceanja/Amazon/tree/master/0972-knight-dialer) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/oceanja/Amazon/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
