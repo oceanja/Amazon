@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/oceanja/Amazon/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/oceanja/Amazon/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/oceanja/Amazon/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2690-house-robber-iv](https://github.com/oceanja/Amazon/tree/master/2690-house-robber-iv) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/oceanja/Amazon/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/oceanja/Amazon/tree/master/0146-lru-cache) |
+| [0268-missing-number](https://github.com/oceanja/Amazon/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/oceanja/Amazon/tree/master/0299-bulls-and-cows) |
 | [0460-lfu-cache](https://github.com/oceanja/Amazon/tree/master/0460-lfu-cache) |
 | [0523-continuous-subarray-sum](https://github.com/oceanja/Amazon/tree/master/0523-continuous-subarray-sum) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/oceanja/Amazon/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/oceanja/Amazon/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/oceanja/Amazon/tree/master/0198-house-robber) |
+| [0268-missing-number](https://github.com/oceanja/Amazon/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/oceanja/Amazon/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/oceanja/Amazon/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/oceanja/Amazon/tree/master/0525-contiguous-array) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/oceanja/Amazon/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/oceanja/Amazon/tree/master/0273-integer-to-english-words) |
 | [0523-continuous-subarray-sum](https://github.com/oceanja/Amazon/tree/master/0523-continuous-subarray-sum) |
 | [0670-maximum-swap](https://github.com/oceanja/Amazon/tree/master/0670-maximum-swap) |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/oceanja/Amazon/tree/master/0018-4sum) |
+| [0268-missing-number](https://github.com/oceanja/Amazon/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/oceanja/Amazon/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/oceanja/Amazon/tree/master/0778-reorganize-string) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/oceanja/Amazon/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -230,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/oceanja/Amazon/tree/master/0826-soup-servings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/oceanja/Amazon/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
