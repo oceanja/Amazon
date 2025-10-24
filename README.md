@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/oceanja/Amazon/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/oceanja/Amazon/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/oceanja/Amazon/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1646-kth-missing-positive-number](https://github.com/oceanja/Amazon/tree/master/1646-kth-missing-positive-number) |
 | [2690-house-robber-iv](https://github.com/oceanja/Amazon/tree/master/2690-house-robber-iv) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/oceanja/Amazon/tree/master/1137-height-checker) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/oceanja/Amazon/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/oceanja/Amazon/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1646-kth-missing-positive-number](https://github.com/oceanja/Amazon/tree/master/1646-kth-missing-positive-number) |
 | [1830-count-good-meals](https://github.com/oceanja/Amazon/tree/master/1830-count-good-meals) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/oceanja/Amazon/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2690-house-robber-iv](https://github.com/oceanja/Amazon/tree/master/2690-house-robber-iv) |
