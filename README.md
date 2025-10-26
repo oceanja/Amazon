@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/oceanja/Amazon/tree/master/0740-delete-and-earn) |
 | [0778-reorganize-string](https://github.com/oceanja/Amazon/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/oceanja/Amazon/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0940-fruit-into-baskets](https://github.com/oceanja/Amazon/tree/master/0940-fruit-into-baskets) |
 | [1830-count-good-meals](https://github.com/oceanja/Amazon/tree/master/1830-count-good-meals) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/oceanja/Amazon/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/oceanja/Amazon/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/oceanja/Amazon/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/oceanja/Amazon/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/oceanja/Amazon/tree/master/0747-min-cost-climbing-stairs) |
+| [0940-fruit-into-baskets](https://github.com/oceanja/Amazon/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/oceanja/Amazon/tree/master/0967-minimum-falling-path-sum) |
 | [1137-height-checker](https://github.com/oceanja/Amazon/tree/master/1137-height-checker) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/oceanja/Amazon/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/oceanja/Amazon/tree/master/0940-fruit-into-baskets) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/oceanja/Amazon/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Heap (Priority Queue)
 |  |
