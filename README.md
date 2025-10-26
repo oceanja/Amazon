@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/oceanja/Amazon/tree/master/0778-reorganize-string) |
 | [1137-height-checker](https://github.com/oceanja/Amazon/tree/master/1137-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/oceanja/Amazon/tree/master/1306-minimum-absolute-difference) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/oceanja/Amazon/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/oceanja/Amazon/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Sliding Window
 |  |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/oceanja/Amazon/tree/master/0023-merge-k-sorted-lists) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/oceanja/Amazon/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/oceanja/Amazon/tree/master/0778-reorganize-string) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/oceanja/Amazon/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/oceanja/Amazon/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Prefix Sum
 |  |
