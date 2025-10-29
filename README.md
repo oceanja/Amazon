@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/oceanja/Amazon/tree/master/0412-fizz-buzz) |
 | [0778-reorganize-string](https://github.com/oceanja/Amazon/tree/master/0778-reorganize-string) |
 | [1894-merge-strings-alternately](https://github.com/oceanja/Amazon/tree/master/1894-merge-strings-alternately) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/oceanja/Amazon/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2317-count-collisions-on-a-road](https://github.com/oceanja/Amazon/tree/master/2317-count-collisions-on-a-road) |
 | [2373-apply-discount-to-prices](https://github.com/oceanja/Amazon/tree/master/2373-apply-discount-to-prices) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/oceanja/Amazon/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/oceanja/Amazon/tree/master/0155-min-stack) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/oceanja/Amazon/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2317-count-collisions-on-a-road](https://github.com/oceanja/Amazon/tree/master/2317-count-collisions-on-a-road) |
 ## Matrix
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/oceanja/Amazon/tree/master/0412-fizz-buzz) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/oceanja/Amazon/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2317-count-collisions-on-a-road](https://github.com/oceanja/Amazon/tree/master/2317-count-collisions-on-a-road) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/oceanja/Amazon/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3790-fruits-into-baskets-ii](https://github.com/oceanja/Amazon/tree/master/3790-fruits-into-baskets-ii) |
