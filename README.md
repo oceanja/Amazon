@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/oceanja/Amazon/tree/master/0940-fruit-into-baskets) |
 | [1830-count-good-meals](https://github.com/oceanja/Amazon/tree/master/1830-count-good-meals) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/oceanja/Amazon/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2594-count-pairs-of-similar-strings](https://github.com/oceanja/Amazon/tree/master/2594-count-pairs-of-similar-strings) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/oceanja/Amazon/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/oceanja/Amazon/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/oceanja/Amazon/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/oceanja/Amazon/tree/master/1829-maximum-units-on-a-truck) |
 | [1830-count-good-meals](https://github.com/oceanja/Amazon/tree/master/1830-count-good-meals) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/oceanja/Amazon/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2594-count-pairs-of-similar-strings](https://github.com/oceanja/Amazon/tree/master/2594-count-pairs-of-similar-strings) |
 | [2690-house-robber-iv](https://github.com/oceanja/Amazon/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/oceanja/Amazon/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/oceanja/Amazon/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/oceanja/Amazon/tree/master/0299-bulls-and-cows) |
 | [0778-reorganize-string](https://github.com/oceanja/Amazon/tree/master/0778-reorganize-string) |
+| [2594-count-pairs-of-similar-strings](https://github.com/oceanja/Amazon/tree/master/2594-count-pairs-of-similar-strings) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/oceanja/Amazon/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Enumeration
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2317-count-collisions-on-a-road](https://github.com/oceanja/Amazon/tree/master/2317-count-collisions-on-a-road) |
 | [2373-apply-discount-to-prices](https://github.com/oceanja/Amazon/tree/master/2373-apply-discount-to-prices) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/oceanja/Amazon/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2594-count-pairs-of-similar-strings](https://github.com/oceanja/Amazon/tree/master/2594-count-pairs-of-similar-strings) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/oceanja/Amazon/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/oceanja/Amazon/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/oceanja/Amazon/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/oceanja/Amazon/tree/master/0268-missing-number) |
+| [2594-count-pairs-of-similar-strings](https://github.com/oceanja/Amazon/tree/master/2594-count-pairs-of-similar-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
