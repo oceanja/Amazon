@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/oceanja/Amazon/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/oceanja/Amazon/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/oceanja/Amazon/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/oceanja/Amazon/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/oceanja/Amazon/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0337-house-robber-iii](https://github.com/oceanja/Amazon/tree/master/0337-house-robber-iii) |
 | [0547-number-of-provinces](https://github.com/oceanja/Amazon/tree/master/0547-number-of-provinces) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/oceanja/Amazon/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0133-clone-graph](https://github.com/oceanja/Amazon/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/oceanja/Amazon/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/oceanja/Amazon/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/oceanja/Amazon/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/oceanja/Amazon/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/oceanja/Amazon/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/oceanja/Amazon/tree/master/0134-gas-station) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/oceanja/Amazon/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/oceanja/Amazon/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/oceanja/Amazon/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/oceanja/Amazon/tree/master/0268-missing-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/oceanja/Amazon/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/oceanja/Amazon/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/oceanja/Amazon/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/oceanja/Amazon/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/oceanja/Amazon/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/oceanja/Amazon/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/oceanja/Amazon/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/oceanja/Amazon/tree/master/0967-minimum-falling-path-sum) |
