@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/oceanja/Amazon/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/oceanja/Amazon/tree/master/0563-binary-tree-tilt) |
 | [0652-find-duplicate-subtrees](https://github.com/oceanja/Amazon/tree/master/0652-find-duplicate-subtrees) |
+| [0695-max-area-of-island](https://github.com/oceanja/Amazon/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/oceanja/Amazon/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/oceanja/Amazon/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/oceanja/Amazon/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/oceanja/Amazon/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/oceanja/Amazon/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/oceanja/Amazon/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/oceanja/Amazon/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/oceanja/Amazon/tree/master/0733-flood-fill) |
 | [0813-all-paths-from-source-to-target](https://github.com/oceanja/Amazon/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/oceanja/Amazon/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/oceanja/Amazon/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/oceanja/Amazon/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/oceanja/Amazon/tree/master/0525-contiguous-array) |
+| [0695-max-area-of-island](https://github.com/oceanja/Amazon/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/oceanja/Amazon/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/oceanja/Amazon/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/oceanja/Amazon/tree/master/0733-flood-fill) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/oceanja/Amazon/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/oceanja/Amazon/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/oceanja/Amazon/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/oceanja/Amazon/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/oceanja/Amazon/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/oceanja/Amazon/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/oceanja/Amazon/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/oceanja/Amazon/tree/master/0967-minimum-falling-path-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/oceanja/Amazon/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
