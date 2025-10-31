@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/oceanja/Amazon/tree/master/0563-binary-tree-tilt) |
 | [0652-find-duplicate-subtrees](https://github.com/oceanja/Amazon/tree/master/0652-find-duplicate-subtrees) |
 | [0733-flood-fill](https://github.com/oceanja/Amazon/tree/master/0733-flood-fill) |
+| [0813-all-paths-from-source-to-target](https://github.com/oceanja/Amazon/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/oceanja/Amazon/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/oceanja/Amazon/tree/master/1035-cousins-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/oceanja/Amazon/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/oceanja/Amazon/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/oceanja/Amazon/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/oceanja/Amazon/tree/master/0733-flood-fill) |
+| [0813-all-paths-from-source-to-target](https://github.com/oceanja/Amazon/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/oceanja/Amazon/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/oceanja/Amazon/tree/master/1035-cousins-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/oceanja/Amazon/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/oceanja/Amazon/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/oceanja/Amazon/tree/master/0547-number-of-provinces) |
+| [0813-all-paths-from-source-to-target](https://github.com/oceanja/Amazon/tree/master/0813-all-paths-from-source-to-target) |
 ## Math
 |  |
 | ------- |
@@ -331,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/oceanja/Amazon/tree/master/3790-fruits-into-baskets-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/oceanja/Amazon/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
