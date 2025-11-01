@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/oceanja/Amazon/tree/master/0652-find-duplicate-subtrees) |
 | [0695-max-area-of-island](https://github.com/oceanja/Amazon/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/oceanja/Amazon/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/oceanja/Amazon/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/oceanja/Amazon/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/oceanja/Amazon/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/oceanja/Amazon/tree/master/1035-cousins-in-binary-tree) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/oceanja/Amazon/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/oceanja/Amazon/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/oceanja/Amazon/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/oceanja/Amazon/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/oceanja/Amazon/tree/master/0813-all-paths-from-source-to-target) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/oceanja/Amazon/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/oceanja/Amazon/tree/master/1035-cousins-in-binary-tree) |
@@ -190,12 +192,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/oceanja/Amazon/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/oceanja/Amazon/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/oceanja/Amazon/tree/master/0695-max-area-of-island) |
+| [0801-is-graph-bipartite](https://github.com/oceanja/Amazon/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/oceanja/Amazon/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/oceanja/Amazon/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/oceanja/Amazon/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/oceanja/Amazon/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/oceanja/Amazon/tree/master/0813-all-paths-from-source-to-target) |
 | [2121-find-if-path-exists-in-graph](https://github.com/oceanja/Amazon/tree/master/2121-find-if-path-exists-in-graph) |
 ## Math
