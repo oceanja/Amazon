@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/oceanja/Amazon/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/oceanja/Amazon/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1646-kth-missing-positive-number](https://github.com/oceanja/Amazon/tree/master/1646-kth-missing-positive-number) |
+| [1706-min-cost-to-connect-all-points](https://github.com/oceanja/Amazon/tree/master/1706-min-cost-to-connect-all-points) |
 | [1829-maximum-units-on-a-truck](https://github.com/oceanja/Amazon/tree/master/1829-maximum-units-on-a-truck) |
 | [1830-count-good-meals](https://github.com/oceanja/Amazon/tree/master/1830-count-good-meals) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/oceanja/Amazon/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/oceanja/Amazon/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/oceanja/Amazon/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/oceanja/Amazon/tree/master/0801-is-graph-bipartite) |
+| [1706-min-cost-to-connect-all-points](https://github.com/oceanja/Amazon/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/oceanja/Amazon/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/oceanja/Amazon/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/oceanja/Amazon/tree/master/0820-find-eventual-safe-states) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/oceanja/Amazon/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1706-min-cost-to-connect-all-points](https://github.com/oceanja/Amazon/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/oceanja/Amazon/tree/master/2121-find-if-path-exists-in-graph) |
 ## Math
 |  |
@@ -382,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/oceanja/Amazon/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/oceanja/Amazon/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/oceanja/Amazon/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/oceanja/Amazon/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
