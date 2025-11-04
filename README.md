@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/oceanja/Amazon/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/oceanja/Amazon/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/oceanja/Amazon/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0922-possible-bipartition](https://github.com/oceanja/Amazon/tree/master/0922-possible-bipartition) |
 | [1035-cousins-in-binary-tree](https://github.com/oceanja/Amazon/tree/master/1035-cousins-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/oceanja/Amazon/tree/master/2121-find-if-path-exists-in-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/oceanja/Amazon/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/oceanja/Amazon/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/oceanja/Amazon/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/oceanja/Amazon/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0922-possible-bipartition](https://github.com/oceanja/Amazon/tree/master/0922-possible-bipartition) |
 | [1035-cousins-in-binary-tree](https://github.com/oceanja/Amazon/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/oceanja/Amazon/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/oceanja/Amazon/tree/master/2121-find-if-path-exists-in-graph) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/oceanja/Amazon/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/oceanja/Amazon/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/oceanja/Amazon/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/oceanja/Amazon/tree/master/0922-possible-bipartition) |
 | [1706-min-cost-to-connect-all-points](https://github.com/oceanja/Amazon/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/oceanja/Amazon/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/oceanja/Amazon/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/oceanja/Amazon/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/oceanja/Amazon/tree/master/0820-find-eventual-safe-states) |
+| [0922-possible-bipartition](https://github.com/oceanja/Amazon/tree/master/0922-possible-bipartition) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/oceanja/Amazon/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1706-min-cost-to-connect-all-points](https://github.com/oceanja/Amazon/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/oceanja/Amazon/tree/master/2121-find-if-path-exists-in-graph) |
