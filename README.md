@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/oceanja/Amazon/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/oceanja/Amazon/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/oceanja/Amazon/tree/master/0337-house-robber-iii) |
+| [0404-sum-of-left-leaves](https://github.com/oceanja/Amazon/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/oceanja/Amazon/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/oceanja/Amazon/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/oceanja/Amazon/tree/master/0652-find-duplicate-subtrees) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/oceanja/Amazon/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/oceanja/Amazon/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/oceanja/Amazon/tree/master/0337-house-robber-iii) |
+| [0404-sum-of-left-leaves](https://github.com/oceanja/Amazon/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/oceanja/Amazon/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/oceanja/Amazon/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/oceanja/Amazon/tree/master/0617-merge-two-binary-trees) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/oceanja/Amazon/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/oceanja/Amazon/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/oceanja/Amazon/tree/master/0337-house-robber-iii) |
+| [0404-sum-of-left-leaves](https://github.com/oceanja/Amazon/tree/master/0404-sum-of-left-leaves) |
 | [0563-binary-tree-tilt](https://github.com/oceanja/Amazon/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/oceanja/Amazon/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/oceanja/Amazon/tree/master/0652-find-duplicate-subtrees) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/oceanja/Amazon/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/oceanja/Amazon/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/oceanja/Amazon/tree/master/0279-perfect-squares) |
+| [0404-sum-of-left-leaves](https://github.com/oceanja/Amazon/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/oceanja/Amazon/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/oceanja/Amazon/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/oceanja/Amazon/tree/master/0695-max-area-of-island) |
