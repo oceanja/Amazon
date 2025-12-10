@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/oceanja/Amazon/tree/master/1829-maximum-units-on-a-truck) |
 | [1830-count-good-meals](https://github.com/oceanja/Amazon/tree/master/1830-count-good-meals) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/oceanja/Amazon/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/oceanja/Amazon/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2594-count-pairs-of-similar-strings](https://github.com/oceanja/Amazon/tree/master/2594-count-pairs-of-similar-strings) |
 | [2690-house-robber-iv](https://github.com/oceanja/Amazon/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/oceanja/Amazon/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/oceanja/Amazon/tree/master/0443-string-compression) |
 | [0922-sort-array-by-parity-ii](https://github.com/oceanja/Amazon/tree/master/0922-sort-array-by-parity-ii) |
 | [1894-merge-strings-alternately](https://github.com/oceanja/Amazon/tree/master/1894-merge-strings-alternately) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/oceanja/Amazon/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/oceanja/Amazon/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Sorting
 |  |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/oceanja/Amazon/tree/master/0412-fizz-buzz) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/oceanja/Amazon/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/oceanja/Amazon/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2317-count-collisions-on-a-road](https://github.com/oceanja/Amazon/tree/master/2317-count-collisions-on-a-road) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/oceanja/Amazon/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/oceanja/Amazon/tree/master/2800-minimum-string-length-after-removing-substrings) |
