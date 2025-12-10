@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/oceanja/Amazon/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/oceanja/Amazon/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/oceanja/Amazon/tree/master/0747-min-cost-climbing-stairs) |
+| [0922-sort-array-by-parity-ii](https://github.com/oceanja/Amazon/tree/master/0922-sort-array-by-parity-ii) |
 | [0940-fruit-into-baskets](https://github.com/oceanja/Amazon/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/oceanja/Amazon/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/oceanja/Amazon/tree/master/1036-rotting-oranges) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/oceanja/Amazon/tree/master/0018-4sum) |
 | [0443-string-compression](https://github.com/oceanja/Amazon/tree/master/0443-string-compression) |
+| [0922-sort-array-by-parity-ii](https://github.com/oceanja/Amazon/tree/master/0922-sort-array-by-parity-ii) |
 | [1894-merge-strings-alternately](https://github.com/oceanja/Amazon/tree/master/1894-merge-strings-alternately) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/oceanja/Amazon/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Sorting
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/oceanja/Amazon/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/oceanja/Amazon/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/oceanja/Amazon/tree/master/0778-reorganize-string) |
+| [0922-sort-array-by-parity-ii](https://github.com/oceanja/Amazon/tree/master/0922-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/oceanja/Amazon/tree/master/1137-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/oceanja/Amazon/tree/master/1306-minimum-absolute-difference) |
 | [1829-maximum-units-on-a-truck](https://github.com/oceanja/Amazon/tree/master/1829-maximum-units-on-a-truck) |
